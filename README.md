@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊, I'm Jalal Addisu</h1>
 <h3 align="center">A Software Developer from Ethiopia</h3>
 
-<img src="2244.jpg" alt="Profile Banner" />
+<img src="4407.jpg" alt="Profile Banner" />
 
 ### About Me
 - I'm currently working on **[https://github.com/rainbows-n-sunshine/Berso.git]**
