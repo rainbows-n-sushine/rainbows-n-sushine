@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainbows-n-sunshine&show_icons=true&theme=radical)  
-![My GitHub Streak](https://streak-stats.demolab.com?user=rainbows-n-sunshine&theme=radical)
+![My GitHub Streak](https://streak-stats.demolab.com?username=rainbows-n-sunshine&theme=radical)
 
 
 ### Connect With Me
