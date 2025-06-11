@@ -37,12 +37,6 @@
 </p>
 
 
-### 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainbows-n-sushine&show_icons=true&theme=radical)  
-![My GitHub Streak](https://streak-stats.demolab.com?user=rainbows-n-sushine&theme=radical)
-
-
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/jalal-geleta)
